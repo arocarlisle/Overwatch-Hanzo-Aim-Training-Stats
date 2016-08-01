@@ -25,3 +25,5 @@ How it works:
 MouseHook from here: http://keyboardmousehooks.codeplex.com/
 
 ScreenCapture from here: http://www.developerfusion.com/code/4630/capture-a-screen-shot/
+
+Screenshot: https://imgur.com/gallery/DBZg3
